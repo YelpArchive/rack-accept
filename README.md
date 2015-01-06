@@ -1,3 +1,5 @@
+**NOTE: THIS REPO HAS BEEN DEPRECATED**
+
 # Rack::Accept
 
 **Rack::Accept** is a suite of tools for Ruby/Rack applications that eases the
